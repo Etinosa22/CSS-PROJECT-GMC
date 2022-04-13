@@ -818,7 +818,6 @@ footer{
 
    .career {
        width: 100vw;
-       border: 2px solid blue;
        margin: auto auto;
    }
 
@@ -826,7 +825,6 @@ footer{
         /* padding: 10px 25px 0px 25px; */
         margin: auto auto;
         margin-top: -50px;
-        border: 2px solid red;
    }
 
 .career-cont p {
@@ -838,5 +836,27 @@ footer{
         margin-bottom: 20px;
         padding: 12px 15px;
    }
+
+
+   .eighth-sec {
+       width: 100%;
+}
+
+.grid-container {
+    width: 100vw;
+    
+}
+
+.row-two {
+    width: 100vw;
+    display: inline;
+    
+}
+
+.griditem {
+    width: 50%;
+    text-align: center;
+    margin: 15px auto;
+}
 
 }
