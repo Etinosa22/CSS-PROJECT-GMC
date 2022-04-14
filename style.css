@@ -604,7 +604,7 @@ footer{
     cursor: pointer;
 }
 
-@media all and (max-width: 867px){
+@media screen and (max-width: 867px){
     body {
         width: 100vw;
     }
@@ -718,8 +718,6 @@ footer{
     .fifth-sec{
         width: 100vw;
     }
-
-
 
     .fifth-sec h1 {
         width: 80%;
@@ -836,7 +834,6 @@ footer{
         margin-bottom: 20px;
         padding: 12px 15px;
    }
-
 
    .eighth-sec {
        width: 100%;
